@@ -1,5 +1,0 @@
-Blog Website with database
-
-I have done this website before but it had a problem, when we openthe page again all the posts that we composed will be deleted. And now using database we solved that problem, 
-the website will automatically save what the user will compose and you will be able to see the posts whenever you enter the website.
-And it is done by using  Node.js,EJS,  JSON, jQuery, Mongoose to help us create our database, CRUD operations and various packages like express, body-parser, lodash and others
